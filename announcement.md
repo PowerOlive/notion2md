@@ -25,3 +25,6 @@ If you have interest in participating in this project as collaborator, please
 project.
 
 And once again thank you and I hope this project gets bigger and bigger.
+
+Best,
+echo
